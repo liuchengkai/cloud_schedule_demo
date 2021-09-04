@@ -11,6 +11,7 @@
 * source_code：Build前的Vue源码
 * cloud_schedule：部署在演示链接中的文件
 
+## 分工
 ### 彩笔冲冲冲小队
 * 前端（Vue + Element UI)：刘成凯  
 * 后端（Flask + Elastic Search)：覃诗雯
